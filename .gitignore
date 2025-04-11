@@ -1,2 +1,3 @@
 .venv
-.envsimilarity_metrics.pkl
+.env
+similarity_metrics.pkl
